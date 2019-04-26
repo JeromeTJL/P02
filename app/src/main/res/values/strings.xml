@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Second App</string>
+    <string name="regiform">Registration Form</string>
+    <string name="welcometoALC">Welcome to Adventure Learning Club</string>
+    <string name="name">Full Name</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="studentid">Student ID</string>
+    <string name="SIDhint">18000000</string>
+    <string name="school">School</string>
+    <string name="diffschools">SOI/SHL/SMC/STA/SHL/SOH/SAS</string>
+    <string name="email">E-mail</string>
+    <string name="emailexample">18000000@myrp.edu.sg</string>
+    <string name="phoneexample">91234567</string>
+    <string name="phone">Phone Number</string>
+    <string name="register">Register</string>
+
+
+</resources>
